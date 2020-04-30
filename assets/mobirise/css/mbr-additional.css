@@ -1284,7 +1284,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-rXA8odK432 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.8 !important;
 }
 .cid-rXA8odK432 .mbr-gallery-title {
   font-size: .9em;
@@ -1305,7 +1305,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
