@@ -3127,29 +3127,6 @@ section.lazy-placeholder:after {
     padding-bottom: 2rem;
   }
 }
-.cid-rYjzkrr4Qm {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rYjzkrr4Qm .line {
-  background-color: #cccccc;
-  color: #cccccc;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rYjzkrr4Qm .section-text {
-  padding: 2rem 0;
-}
-.cid-rYjzkrr4Qm .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rYjzkrr4Qm .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-rYjwvcvO0M {
   padding-top: 15px;
   padding-bottom: 0px;
