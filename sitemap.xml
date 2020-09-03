@@ -1,8 +1,5 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://skyhub.org/index.html</loc>
-	</url>
-	<url>
 		<loc>https://skyhub.org/team.html</loc>
 	</url>
 	<url>
@@ -10,5 +7,32 @@
 	</url>
 	<url>
 		<loc>https://skyhub.org/hardware.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/patreons.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/terms.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/privacy.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/media.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/podcasts.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/canary.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/page10.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/index.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/page11.html</loc>
 	</url>
 </urlset>
