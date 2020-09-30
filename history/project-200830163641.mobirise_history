@@ -1245,7 +1245,7 @@
         "meta_descr": "SkyHub Team",
         "title": "Team",
         "order": 4,
-        "meta_image": "@PROJECT_PATH@/assets/images/artboard%201.png"
+        "meta_image": "@PROJECT_PATH@/assets/images/artboard1.png"
       },
       "components": [
         {
