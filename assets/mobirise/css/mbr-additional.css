@@ -3916,6 +3916,60 @@ section.lazy-placeholder:after {
 .cid-sc4UZZZW1e P {
   color: #767676;
 }
+.cid-sc64UJb74i {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+@media (min-width: 992px) {
+  .cid-sc64UJb74i .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sc64UJb74i .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sc64UJb74i .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sc64UJb74i H1 {
+  color: #121111;
+}
+.cid-sc64UJb74i .mbr-text,
+.cid-sc64UJb74i .mbr-section-btn {
+  color: #121111;
+}
+.cid-sc5TRFZ5Bw {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+@media (min-width: 992px) {
+  .cid-sc5TRFZ5Bw .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sc5TRFZ5Bw .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sc5TRFZ5Bw .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sc5TRFZ5Bw H1 {
+  color: #121111;
+}
+.cid-sc5TRFZ5Bw .mbr-text,
+.cid-sc5TRFZ5Bw .mbr-section-btn {
+  color: #121111;
+}
 .cid-s9mY4wnIUq {
   padding-top: 60px;
   padding-bottom: 90px;
@@ -3980,6 +4034,73 @@ section.lazy-placeholder:after {
   }
 }
 .cid-s9mY4wnIUq .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-s9n26axlIF {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-s9n26axlIF .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-s9n26axlIF h4 {
+  font-weight: 500;
+}
+.cid-s9n26axlIF p {
+  color: #232323;
+}
+.cid-s9n26axlIF .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-s9n26axlIF .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-s9n26axlIF .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-s9n26axlIF .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-s9n26axlIF .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-s9n26axlIF .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-s9n26axlIF .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s9n26axlIF .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-s9n26axlIF .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-s9n26axlIF .cost {
   text-decoration: line-through;
   color: #767676;
 }
@@ -4457,73 +4578,6 @@ section.lazy-placeholder:after {
 .cid-s9mWi31itC .nav-link:hover,
 .cid-s9mWi31itC .dropdown-item:hover {
   color: #767676 !important;
-}
-.cid-s9n26axlIF {
-  padding-top: 60px;
-  padding-bottom: 90px;
-  background-color: #f9f9f9;
-}
-.cid-s9n26axlIF .mbr-section-btn > * {
-  margin: 0;
-}
-.cid-s9n26axlIF h4 {
-  font-weight: 500;
-}
-.cid-s9n26axlIF p {
-  color: #232323;
-}
-.cid-s9n26axlIF .aside-content {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-.cid-s9n26axlIF .block-content {
-  display: -webkit-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  word-break: break-word;
-}
-.cid-s9n26axlIF .media {
-  margin: initial;
-  align-items: center;
-  -webkit-align-items: center;
-}
-.cid-s9n26axlIF .mbr-figure {
-  align-self: flex-start;
-  -webkit-align-self: flex-start;
-  -webkit-flex-shrink: 0;
-  flex-shrink: 0;
-}
-.cid-s9n26axlIF .card-img {
-  padding-right: 2rem;
-  width: auto;
-}
-.cid-s9n26axlIF .card-img span {
-  font-size: 72px;
-  color: #707070;
-}
-@media (min-width: 992px) {
-  .cid-s9n26axlIF .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s9n26axlIF .mbr-figure {
-    padding-right: 0;
-    padding-bottom: 1rem;
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 300px) {
-  .cid-s9n26axlIF .card-img span {
-    font-size: 40px !important;
-  }
-}
-.cid-s9n26axlIF .cost {
-  text-decoration: line-through;
-  color: #767676;
 }
 .cid-s9mWig7R5T {
   padding-top: 60px;
