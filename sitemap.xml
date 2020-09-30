@@ -6,9 +6,6 @@
 		<loc>https://skyhub.org/seo.html</loc>
 	</url>
 	<url>
-		<loc>https://skyhub.org/hardware.html</loc>
-	</url>
-	<url>
 		<loc>https://skyhub.org/patreons.html</loc>
 	</url>
 	<url>
@@ -34,5 +31,17 @@
 	</url>
 	<url>
 		<loc>https://skyhub.org/page11.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/page12.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/oldhardware.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/hardware.html</loc>
+	</url>
+	<url>
+		<loc>https://skyhub.org/articles.html</loc>
 	</url>
 </urlset>
