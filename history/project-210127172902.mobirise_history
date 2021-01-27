@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Sky Hub",
-    "currentPage": "index.html",
+    "currentPage": "supportourmision.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -95,7 +95,9 @@
       "email": "skyhubuser@gmail.com",
       "currency": "USD"
     },
-    "global_header_custom": ""
+    "global_header_custom": "",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "team.html": {
