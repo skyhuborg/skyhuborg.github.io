@@ -5,6 +5,7 @@
         url('shoppingcart.svg#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-display: swap;
 }
 /* 
   font was generated with iconmoon
@@ -122,28 +123,16 @@
     width: 30px;
     height: 30px;
     position: absolute;
-    top: 0;
-    right: 0;
+    top: 15px;
+    right: 15px;
+    font-size: 42px;
+    font-weight: 400;
+    line-height: 1;
+    z-index: 1;
+    outline: none;
+    opacity: 0.3;
+    transition: 0.2s;
 }
-#exampleModal .close:after {
-    content: "";
-    position: absolute;
-    width: 30px;
-    height: 2px;
-    background-color: #cccccc;
-    top: 50%;
-    right: 5%;
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-  }
-  #exampleModal .close:before {
-    content: "";
-    position: absolute;
-    width: 2px;
-    height: 30px;
-    background-color: #cccccc;
-    right: 50%;
-    top: 5%;
-    -webkit-transform: rotate(-45deg);
-    transform: rotate(-45deg);
-  }
+#exampleModal .close:hover {
+    opacity: 0.7;
+}
